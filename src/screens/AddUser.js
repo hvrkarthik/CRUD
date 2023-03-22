@@ -108,9 +108,10 @@ const styles = StyleSheet.create({
     alignSelf: 'center',
     paddingLeft: 20,
     marginTop: 100,
+    backgroundColor: '#000000'
   },
   addBtn: {
-    backgroundColor: 'purple',
+    backgroundColor: '#6495ed',
     width: '80%',
     height: 50,
     borderRadius: 10,

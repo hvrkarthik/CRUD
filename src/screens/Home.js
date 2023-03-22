@@ -114,7 +114,7 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   addNewBtn: {
-    backgroundColor: 'purple',
+    backgroundColor: `#6495ed`,
     width: 150,
     height: 50,
     borderRadius: 20,
